@@ -1,0 +1,2 @@
+If you run new_trigram.py, all of the three character models that is unigram.wfsa, bigram.wfsa and trigram.wfsa would be generated.
+Another file trigram#.wfsa might also be generated which is not to be considered.
